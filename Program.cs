@@ -12,6 +12,7 @@ namespace App
         {
             Console.WriteLine("Hello World!!");
             ;
+            Console.ReadKey();
         }
     }
 }
