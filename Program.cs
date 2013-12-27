@@ -12,7 +12,6 @@ namespace App
         {
             Console.WriteLine("Hello World!!");
             ;
-            ;
         }
     }
 }
